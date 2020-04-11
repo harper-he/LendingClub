@@ -2261,23 +2261,23 @@
       "|  policy_code|  count|\n",
       "+-------------+-------+\n",
       "|            1|1206949|\n",
-      "|            0|      8|\n",
       "|         null|      8|\n",
+      "|            0|      8|\n",
       "|          0.0|      4|\n",
-      "|89.1377999988|      1|\n",
-      "|30.2849999999|      1|\n",
       "|         1926|      1|\n",
+      "|30.2849999999|      1|\n",
       "|       121.95|      1|\n",
-      "|     Jan-2018|      1|\n",
+      "|       200.68|      1|\n",
       "|         5.73|      1|\n",
       "|         1.76|      1|\n",
       "|            f|      1|\n",
-      "|     Oct-2016|      1|\n",
-      "|       200.68|      1|\n",
-      "|         3.84|      1|\n",
-      "|      2838.85|      1|\n",
-      "|           49|      1|\n",
       "|         0.00|      1|\n",
+      "|89.1377999988|      1|\n",
+      "|     Jan-2018|      1|\n",
+      "|      2838.85|      1|\n",
+      "|         3.84|      1|\n",
+      "|           49|      1|\n",
+      "|     Oct-2016|      1|\n",
       "+-------------+-------+\n",
       "\n"
      ]
@@ -2298,7 +2298,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 24,
+   "execution_count": 23,
    "metadata": {
     "scrolled": true
    },
@@ -2381,7 +2381,7 @@
        "0  0        0          1115        0          0                    0          0              0            0                0                0              0                   0           0                        0                6                           0                 0               10285         10285        206280     "
       ]
      },
-     "execution_count": 24,
+     "execution_count": 23,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2399,7 +2399,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
+   "execution_count": 24,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2408,7 +2408,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 26,
+   "execution_count": 25,
    "metadata": {
     "scrolled": true
    },
@@ -2454,7 +2454,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
+   "execution_count": 26,
    "metadata": {
     "scrolled": false
    },
@@ -2481,7 +2481,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
+   "execution_count": 27,
    "metadata": {
     "scrolled": false
    },
@@ -2493,7 +2493,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 29,
+   "execution_count": 28,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2514,7 +2514,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 30,
+   "execution_count": 29,
    "metadata": {
     "scrolled": false
    },
@@ -2542,7 +2542,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 32,
+   "execution_count": 30,
    "metadata": {
     "scrolled": false
    },
@@ -2577,7 +2577,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 35,
+   "execution_count": 31,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2604,7 +2604,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 36,
+   "execution_count": 32,
    "metadata": {
     "scrolled": false
    },
@@ -2645,7 +2645,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
+   "execution_count": 33,
    "metadata": {
     "scrolled": false
    },
@@ -2728,7 +2728,7 @@
        "0  0        0          1115        0          0                    0          0              0            0                0                0              0                   0           0                        0                6                           0                 0               10285         10285        206280     "
       ]
      },
-     "execution_count": 37,
+     "execution_count": 33,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2747,7 +2747,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 38,
+   "execution_count": 34,
    "metadata": {
     "scrolled": true
    },
@@ -2775,7 +2775,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 39,
+   "execution_count": 35,
    "metadata": {
     "scrolled": false
    },
@@ -2786,7 +2786,7 @@
        "49.60215702112277"
       ]
      },
-     "execution_count": 39,
+     "execution_count": 35,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2798,7 +2798,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 40,
+   "execution_count": 36,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2807,7 +2807,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 41,
+   "execution_count": 37,
    "metadata": {
     "scrolled": true
    },
@@ -2833,7 +2833,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 42,
+   "execution_count": 38,
    "metadata": {
     "scrolled": true
    },
@@ -2857,7 +2857,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 43,
+   "execution_count": 39,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2866,7 +2866,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 44,
+   "execution_count": 40,
    "metadata": {},
    "outputs": [
     {
@@ -2888,7 +2888,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 52,
+   "execution_count": 41,
    "metadata": {
     "scrolled": false
    },
@@ -2900,7 +2900,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 53,
+   "execution_count": 42,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2910,7 +2910,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 54,
+   "execution_count": 43,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2920,7 +2920,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 55,
+   "execution_count": 44,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2932,24 +2932,7 @@
    "cell_type": "code",
    "execution_count": 45,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "+-------+------------------+\n",
-      "|summary|      tot_coll_amt|\n",
-      "+-------+------------------+\n",
-      "|  count|           1196664|\n",
-      "|   mean|216.85304396221497|\n",
-      "| stddev|1699.2584198528266|\n",
-      "|    min|               0.0|\n",
-      "|    max|          262740.0|\n",
-      "+-------+------------------+\n",
-      "\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "#part2.describe('tot_coll_amt').show()"
    ]
@@ -2958,24 +2941,7 @@
    "cell_type": "code",
    "execution_count": 46,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "+-------+------------------+\n",
-      "|summary|       tot_cur_bal|\n",
-      "+-------+------------------+\n",
-      "|  count|           1196664|\n",
-      "|   mean|138929.00075961172|\n",
-      "| stddev|159336.36778367285|\n",
-      "|    min|               0.0|\n",
-      "|    max|         9971659.0|\n",
-      "+-------+------------------+\n",
-      "\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "#part2.describe('tot_cur_bal').show()"
    ]
@@ -2986,24 +2952,7 @@
    "metadata": {
     "scrolled": true
    },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "+-------+------------------+\n",
-      "|summary|       open_acc_6m|\n",
-      "+-------+------------------+\n",
-      "|  count|           1000669|\n",
-      "|   mean|0.9013469988577641|\n",
-      "| stddev| 1.121407164365087|\n",
-      "|    min|                 0|\n",
-      "|    max|                18|\n",
-      "+-------+------------------+\n",
-      "\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "#part2.describe('open_acc_6m').show()"
    ]
@@ -3014,39 +2963,7 @@
    "metadata": {
     "scrolled": true
    },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "+-----------+------+\n",
-      "|open_acc_6m| count|\n",
-      "+-----------+------+\n",
-      "|          0|464188|\n",
-      "|          1|308378|\n",
-      "|       null|206280|\n",
-      "|          2|141177|\n",
-      "|          3| 55210|\n",
-      "|          4| 20286|\n",
-      "|          5|  7140|\n",
-      "|          6|  2571|\n",
-      "|          7|  1006|\n",
-      "|          8|   418|\n",
-      "|          9|   154|\n",
-      "|         10|    72|\n",
-      "|         11|    36|\n",
-      "|         12|    18|\n",
-      "|         13|     6|\n",
-      "|         14|     5|\n",
-      "|         16|     1|\n",
-      "|         15|     1|\n",
-      "|         18|     1|\n",
-      "|         17|     1|\n",
-      "+-----------+------+\n",
-      "\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "#part2.groupBy(\"open_acc_6m\").count().orderBy(\"count\",ascending=False).show()"
    ]
@@ -3066,37 +2983,7 @@
    "cell_type": "code",
    "execution_count": 50,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "root\n",
-      " |-- pub_rec: integer (nullable = true)\n",
-      " |-- revol_bal: float (nullable = true)\n",
-      " |-- revol_util: float (nullable = false)\n",
-      " |-- total_acc: integer (nullable = true)\n",
-      " |-- initial_list_status: string (nullable = true)\n",
-      " |-- out_prncp: float (nullable = true)\n",
-      " |-- out_prncp_inv: float (nullable = true)\n",
-      " |-- total_pymnt: float (nullable = true)\n",
-      " |-- total_pymnt_inv: float (nullable = true)\n",
-      " |-- total_rec_prncp: float (nullable = true)\n",
-      " |-- total_rec_int: float (nullable = true)\n",
-      " |-- total_rec_late_fee: float (nullable = true)\n",
-      " |-- recoveries: float (nullable = true)\n",
-      " |-- collection_recovery_fee: float (nullable = true)\n",
-      " |-- last_pymnt_amnt: float (nullable = true)\n",
-      " |-- collections_12_mths_ex_med: integer (nullable = true)\n",
-      " |-- application_type: string (nullable = true)\n",
-      " |-- acc_now_delinq: integer (nullable = true)\n",
-      " |-- tot_coll_amt: float (nullable = true)\n",
-      " |-- tot_cur_bal: float (nullable = true)\n",
-      " |-- open_acc_6m: integer (nullable = true)\n",
-      "\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "# part2.printSchema()"
    ]
@@ -3110,7 +2997,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 56,
+   "execution_count": 51,
    "metadata": {},
    "outputs": [
     {
@@ -3191,7 +3078,7 @@
        "0  0        0          0           0          0                    0          0              0            0                0                0              0                   0           0                        0                0                           0                 0               0             0            0          "
       ]
      },
-     "execution_count": 56,
+     "execution_count": 51,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3202,7 +3089,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 57,
+   "execution_count": 52,
    "metadata": {
     "scrolled": true
    },
@@ -3222,7 +3109,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 58,
+   "execution_count": 53,
    "metadata": {
     "scrolled": true
    },
@@ -3462,7 +3349,7 @@
        "open_acc_6m                 1206949  0.7472975245847173     1.0759859741062134   0           18       "
       ]
      },
-     "execution_count": 58,
+     "execution_count": 53,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3480,23 +3367,11 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 54,
    "metadata": {
     "scrolled": true
    },
-   "outputs": [
-    {
-     "ename": "NameError",
-     "evalue": "name 'feature' is not defined",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
-      "\u001b[0;32m<ipython-input-3-e8cd0e98c6aa>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m\u001b[0m\n\u001b[1;32m      1\u001b[0m \u001b[0mcategorical_cols\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0;34m[\u001b[0m\u001b[0;34m'initial_list_status'\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m'application_type'\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 2\u001b[0;31m stringIndexer = feature.StringIndexer(inputCols=[cols for cols in categorical_cols],\n\u001b[0m\u001b[1;32m      3\u001b[0m                                       outputCols=[\"encoded_\" + cols for cols in categorical_cols])\n",
-      "\u001b[0;31mNameError\u001b[0m: name 'feature' is not defined"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "categorical_cols = ['initial_list_status','application_type']\n",
     "stringIndexer = feature.StringIndexer(inputCols=[cols for cols in categorical_cols],\n",
@@ -3512,7 +3387,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 60,
+   "execution_count": 55,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3521,7 +3396,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 61,
+   "execution_count": 56,
    "metadata": {
     "scrolled": true
    },
@@ -3549,7 +3424,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 62,
+   "execution_count": 57,
    "metadata": {
     "scrolled": false
    },
@@ -3584,7 +3459,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 63,
+   "execution_count": 58,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3593,7 +3468,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 64,
+   "execution_count": 59,
    "metadata": {
     "scrolled": false
    },
@@ -3622,7 +3497,7 @@
        " 'open_acc_6m']"
       ]
      },
-     "execution_count": 64,
+     "execution_count": 59,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3633,7 +3508,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 65,
+   "execution_count": 60,
    "metadata": {},
    "outputs": [
     {
@@ -3642,7 +3517,7 @@
        "19"
       ]
      },
-     "execution_count": 65,
+     "execution_count": 60,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3660,7 +3535,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 73,
+   "execution_count": 61,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3672,7 +3547,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 74,
+   "execution_count": 62,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3689,7 +3564,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 75,
+   "execution_count": 63,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3705,7 +3580,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 76,
+   "execution_count": 64,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3721,7 +3596,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 77,
+   "execution_count": 65,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3730,7 +3605,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 79,
+   "execution_count": 66,
    "metadata": {},
    "outputs": [
     {
@@ -3935,7 +3810,7 @@
        "4  0        829.0      3.600000    26         w                   29339.019531  29339.019531   1423.209961  1423.209961      660.979980       762.229980     0.0                 0.0         0.0                      731.780029       0                           Individual       0               0.0           116007.0     3            0.0                          0.0                       [0.0, 829.0, 3.5999999046325684, 26.0, 29339.01953125, 29339.01953125, 1423.2099609375, 1423.2099609375, 660.97998046875, 762.22998046875, 0.0, 0.0, 0.0, 731.780029296875, 0.0, 0.0, 0.0, 116007.0, 3.0]                     [-0.3402214631482278, -0.704366573123396, -1.85854310613266, 0.22016970358083043, 2.4471442544292255, 2.447567478379506, -0.872745194560043, -0.8724268550033852, -0.8661198267686063, -0.610736699956265, -0.14919212132161083, -0.2605398808306633, -0.24701322005560447, 0.3469937796193618, -0.12791515597814898, -0.05510267631646443, -0.1281635239893517, -0.14447608271452847, 2.0936169519184786]          "
       ]
      },
-     "execution_count": 79,
+     "execution_count": 66,
      "metadata": {},
      "output_type": "execute_result"
     }
